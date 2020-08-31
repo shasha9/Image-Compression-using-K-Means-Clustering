@@ -8,6 +8,6 @@ Data Pre-processing- Imporing images from a local directory and storing them as 
 * ##### Task 3:
 Visualizing the Color Space using Point Clouds- Visualizing the set of pixels from the original image as two 2-D point clouds in color space.
 * ##### Task 4: 
-Visualizing the K-Means Reduced Color Space- Perform k-means clustering with scikit-learn's MiniBatchKMeans to reduce the number of possible colors in the image from over 16 million to 16.Compare and contrast the color space of the original image with that of the k-means compressed image.
+Visualizing the K-Means Reduced Color Space - Perform k-means clustering with scikit-learn's MiniBatchKMeans to reduce the number of possible colors in the image from over 16 million to 16.Compare and contrast the color space of the original image with that of the k-means compressed image.
 * ##### Task 5: 
 Creating Interactive Controls with Jupyter Widgets - Using the interact function to automatically create UI controls for function arguments.Defining an argument to control the value of k using a slider.Defining an argument to pick any image from a specified directory.
