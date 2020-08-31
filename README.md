@@ -4,7 +4,7 @@ This project focuses on applying the K-means clustering unsupervised learning al
 * ##### Task 1:
 Import essential modules and helper functions from NumPy,Matplotlib,scikit-learn,and Jupyter Widgets.
 * ##### Task 2:
-Data Pre-processing- Imporing images from a local directory and storing them as numpy arrays.Exploring the image attributes.Normalizing the pixel values and unrolling the arrays into vectors. 
+Data Pre-processing - Imporing images from a local directory and storing them as numpy arrays.Exploring the image attributes.Normalizing the pixel values and unrolling the arrays into vectors. 
 * ##### Task 3:
 Visualizing the Color Space using Point Clouds - Visualizing the set of pixels from the original image as two 2-D point clouds in color space.
 * ##### Task 4: 
